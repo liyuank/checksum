@@ -14,3 +14,7 @@ Sample Output:
 
 Generated 1 credit numbers randomly:
 Card Number 1: 5 7 2 7 8 7 6 0 4 9
+
+Checking Card Number 1
+Reverse Number: 9 4 0 6 7 8 7 2 7 5
+It is an invalid credit number
